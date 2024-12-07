@@ -1,4 +1,11 @@
-# Exercise-06C-Dialog
+# Project 06-3D RPG
+
+#Implementation 
+[18] Required Features
+[1] Music Added
+[1] Spotlight added to highlight quest giver
+[1] Materials added to obstacles/terrain
+
 
 # References
 
