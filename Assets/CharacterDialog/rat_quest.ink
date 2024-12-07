@@ -6,7 +6,7 @@
         - - -"It's...red"
         ->choices
     *Alright, what is the task?
-        - - - "Would you please help deal with the rat infestation?"
+        - - - "Would you please help deal with that weird cheese monster? It's been terrorizing the facility for weeks now."
         
-    - "Find me once you've dealt with the rats."
+    - "Find me once you've dealt with it."
     ->END
